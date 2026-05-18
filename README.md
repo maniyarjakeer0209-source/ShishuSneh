@@ -209,6 +209,10 @@ git clone https://github.com/your-username/Shishu-Sneh.git
 - Configure Firestore Rules
 - Enable secure authentication workflows
 - Restrict unauthorized database access
+## Test Login
+
+Email: test@gmail.com
+Password: 123456
 
 ---
 
