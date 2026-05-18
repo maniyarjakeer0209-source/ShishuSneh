@@ -130,7 +130,7 @@ Android SDK
 Kotlin Support
 Steps
 Clone the repository
-git clone https://github.com/your-username/Shishu-Sneh.git
+git clone https://github.com/mohammedjakeer0209/Shishu-Sneh.git
 Open the project in Android Studio
 Connect Firebase:
 Add google-services.json
