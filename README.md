@@ -168,6 +168,13 @@ This project helped in gaining practical experience in:
 ---
 
 # Installation Guide
+## APK Download
+
+Download and install the APK from repository files.
+## Test Login
+
+Email: test@gmail.com
+Password: 123456
 
 ## Prerequisites
 - Android Studio
@@ -209,10 +216,6 @@ git clone https://github.com/your-username/Shishu-Sneh.git
 - Configure Firestore Rules
 - Enable secure authentication workflows
 - Restrict unauthorized database access
-## Test Login
-
-Email: test@gmail.com
-Password: 123456
 
 ---
 
